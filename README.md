@@ -1,5 +1,5 @@
 ## wip
-
+![](https://files.catbox.moe/n1pjuc.png)
 <!--
 **LOLlTA/LOLlTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
